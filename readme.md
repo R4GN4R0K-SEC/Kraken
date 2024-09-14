@@ -18,8 +18,7 @@
 <p>
   <h3 align="center">
    A Python-based tool to centralize and streamline BruteForce Attacks
-    
-![screenshot](https://i.imgur.com/aYTy4Ll.gif)
+  <img src="https://i.imgur.com/aYTy4Ll.gif" width="100%">
  </h3>  
 </p>
 
