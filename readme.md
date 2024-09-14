@@ -1,32 +1,44 @@
+<html>
+<head> 
 
 <h1 align="center">
-  <a href="">
-    <picture>
+<p align="center">
+🔥💀🅰🅽🅾🅽🆈🅼🅾🆄🆂💀🔥<br>  
+ ░█▀▀░█░█░█▀█░█▀▀░▀█▀<br>
+ ░█░█░█▀█░█░█░▀▀█░░█░<br> 
+ ░▀▀▀░▀░▀░▀▀▀░▀▀▀░░▀░<br>
+ <a href="">
+   <picture>
       <source height="200" media="(prefers-color-scheme: dark)" srcset="https://i.imgur.com/iuvsqmp.png">
       <img height="200" alt="Kraken" src="https://i.imgur.com/Z4LZoIk.png">
     </picture>
   </a>
-  <br>
+ </p>
 </h1>
-<p align="center">
+<p>
+  <h3 align="center">
    A Python-based tool to centralize and streamline BruteForce Attacks
+    
+![screenshot](https://i.imgur.com/aYTy4Ll.gif)
+ </h3>  
 </p>
 
-![screenshot](https://i.imgur.com/aYTy4Ll.gif)
+</head>
 
 ---
 
-## About The Project
+<body>
+<h2> About The Project </h2>
 <b>Kraken</b> is a powerful, Python-based tool designed to centralize and streamline various brute-forcing tasks. Kraken provides a suite of tools for cybersecurity professionals to efficiently perform brute-force attacks across a range of protocols and services.
 
-## ⚠️  WARNING: LEGAL DISCLAIMER
+<h2> ⚠️  WARNING: LEGAL DISCLAIMER </h2>
 
 This tool is intended for educational purposes only. The author is not responsible for any illegal use of this tool. Users aresolely responsible 
 for their actions.
 
 ---
 
-## 👀 Screenshots
+<h2> 👀 Screenshots </h2>
 
 <p float="left" align="middle">
   <img src="https://i.imgur.com/wcgBbDU.png" width="49%" height="px">
@@ -43,7 +55,7 @@ for their actions.
 
 ---
 
-## ⚙️ Installation
+<h2> ⚙️ Installation </h2>
 
 To install Kraken, follow these steps:
 
@@ -61,7 +73,7 @@ python kraken.py
 
 ---
 
-## 📖 Usage
+<h2> 📖 Usage </h2>
 
 Kraken offers a variety of tools for brute-forcing:
 
@@ -90,14 +102,14 @@ Kraken offers a variety of tools for brute-forcing:
    - Directory Finder
    - Subdomain Finder
 
-### To use a specific tool:
+<h3> To use a specific tool: </h3>
 
 1. Launch Kraken from the command line.
 2. Select the desired tool from the main menu by typing its corresponding number.
 3. Follow the on-screen prompts to input the required information.
 4. Review the results provided by the tool.
 
-### Example:
+<h3> Example: </h3>
 
 ```bash
 root@kraken:~# 1
@@ -106,8 +118,11 @@ This command would start the FTP Brute Force tool.
 
 ---
 
-## ⭐️ Show Your Support
+<h3> ⭐️ Show Your Support </h3>
 
-If you find Kraken helpful or interesting, please consider giving us a star on GitHub. Your support helps promote the project and lets others know that it's worth checking out.
+<strong><i>If you find Kraken helpful or interesting, please consider giving us a star on GitHub. Your support helps promote the project and lets others know that it's worth checking out.</i></strong>
 
 Thank you for your support! 🌟
+
+</body>
+</html>
